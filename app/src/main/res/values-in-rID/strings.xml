@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="definisiBMI">"BMI atau Body Mass Index merupakan cara untuk menentukan apakah berat badanmu ideal atau tidak. "</string>
+    <string name="beratBadan">Berat badan (Kg)</string>
+    <string name="tinggiBadan">Tinggi Badan (cm)</string>
+    <string name="jenisKelamin">Jenis Kelamin</string>
+    <string name="buttonLaki">Pria</string>
+    <string name="buttonWanita">Wanita</string>
+    <string name="hitung">HITUNG</string>
+    <string name="bmi_x">BMI: %1$.2f</string>
+    <string name="kurus">Kurus</string>
+    <string name="ideal">Ideal</string>
+    <string name="gemuk">Gemuk</string>
+    <string name="kategori_x">Kategori: %1$s</string>
+    <string name="buttonPerempuan">Perempuan</string>
+</resources>

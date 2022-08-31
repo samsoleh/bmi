@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="definisiBMI">"BMI or Body Mass Index is the way "</string>
+    <string name="beratBadan">Weight (Kg)</string>
+    <string name="tinggiBadan">Height (cm)</string>
+    <string name="jenisKelamin">Gender</string>
+    <string name="buttonLaki">Man</string>
+    <string name="buttonPerempuan" >Female</string>
+    <string name="buttonWanita">Woman</string>
+    <string name="hitung">Calculate</string>
+    <string name="bmi_x">BMI: %1$.2f</string>
+    <string name="kurus">Skinny</string>
+    <string name="ideal">Ideal</string>
+    <string name="gemuk">Fat</string>
+    <string name="kategori_x">Category: %1$s</string>
+</resources>
